@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-bootstrap-core_css_and_the_grid_system-mobile_first_design/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-bootstrap-core_css_and_the_grid_system-mobile_first_design/'**
 ***
 title: **'Code Institute - Bootstrap - Core CSS & The Grid System - Mobile-First Design'**
 
